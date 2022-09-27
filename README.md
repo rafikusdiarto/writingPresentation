@@ -45,9 +45,11 @@ HTML adalah singkatan dari Hyper Text Markup Language yang digunakan untuk pembu
 ![image](https://user-images.githubusercontent.com/90013398/192436610-5aafc835-2143-46bd-9acd-d953fa5f2ca2.png)
 
 > untuk menampung content
+
 ![image](https://user-images.githubusercontent.com/90013398/192437385-dc2226ca-4a0a-49c7-bac0-b3e47e785fe1.png)
 
 > tag yang digunakan sebagai wadah untuk elemen HTML
+
 ![image](https://user-images.githubusercontent.com/90013398/192436757-cd92c62d-5734-4e34-9925-0a8215ad068c.png)
 
 > tag yang digunakan untuk mendefinisikan heading HTML
