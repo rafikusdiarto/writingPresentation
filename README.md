@@ -42,6 +42,7 @@ HTML adalah singkatan dari Hyper Text Markup Language yang digunakan untuk pembu
 ![image](https://user-images.githubusercontent.com/90013398/192436155-6c85a248-2656-40a9-a883-01c404e53c74.png)
 - Beberapa Contoh Tag HTML
 > tag untuk menampilan judul website
+
 ![image](https://user-images.githubusercontent.com/90013398/192436610-5aafc835-2143-46bd-9acd-d953fa5f2ca2.png)
 
 > untuk menampung content
