@@ -59,7 +59,7 @@ HTML adalah singkatan dari Hyper Text Markup Language yang digunakan untuk pembu
 
 > tag untuk menampilkan paragraf
 
-![image](https://user-images.githubusercontent.com/90013398/192437156-991bccd1-2aec-4895-aab3-089e8dc69739.png)
+![image](https://user-images.githubusercontent.com/90013398/192440202-2574d219-658a-483c-a29e-1f9fe3d6a245.png)
 
 > tag untuk menampilkan gambar dan video
 
