@@ -51,15 +51,19 @@ HTML adalah singkatan dari Hyper Text Markup Language yang digunakan untuk pembu
 ![image](https://user-images.githubusercontent.com/90013398/192436757-cd92c62d-5734-4e34-9925-0a8215ad068c.png)
 
 > tag yang digunakan untuk mendefinisikan heading HTML
+
 ![image](https://user-images.githubusercontent.com/90013398/192436965-57f8de40-33f8-4715-89cb-a0b1faa15ad4.png)
 
 > tag untuk menampilkan paragraf
+
 ![image](https://user-images.githubusercontent.com/90013398/192437156-991bccd1-2aec-4895-aab3-089e8dc69739.png)
 
 > tag untuk menampilkan gambar dan video
+
 ![image](https://user-images.githubusercontent.com/90013398/192438036-3b5e29a4-b63f-4f2c-a081-45f354c5c2e4.png)
 
 > lalu tampilan website akan seperti ini
+
 ![image](https://user-images.githubusercontent.com/90013398/192438804-b571c280-53f1-4566-87a8-035d2556f6b9.png)
 
 
