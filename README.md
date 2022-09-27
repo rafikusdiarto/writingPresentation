@@ -104,7 +104,8 @@ selector pada CSS adalah syntax yang digunakan untuk memilih elemen yang ingin d
 > CSS terdiri dari 3 syntax yaitu selector, property, dan value
 
 ![image](https://user-images.githubusercontent.com/90013398/192445710-637b9b51-2bcd-4d8d-bc19-b6ce97b90bff.png)
-```h1``` : selector untuk elemen yang akan diubah stylenya yaitu paragraf
+ 
+```h1``` : selector untuk elemen yang akan diubah stylenya yaitu h1
 ```color``` : property color untuk merubah warna h1
 ```blue``` : value untuk mendefinisikan warna yang diinginkan
  
