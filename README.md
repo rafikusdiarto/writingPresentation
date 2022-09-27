@@ -71,7 +71,20 @@ HTML adalah singkatan dari Hyper Text Markup Language yang digunakan untuk pembu
 
 
 ## CSS
+Cascading Style Sheet merupakan bahas komputer untuk mengatur beberapa komponen dalam sebuah web. seperti contoh untuk mengubah font, warna, ukuran, spasi konten, pembagian kolom, atau menambahkan animasi dan fitur lainnya.
+- Penggunaan CSS
+> **Inline CSS**
+element *style* dimasukkan di dalam tag HTML seperti di bawah ini
 
+![image](https://user-images.githubusercontent.com/90013398/192441323-fd46823f-5509-4559-8e32-f2a545c86ac1.png)
+
+> **Internal CSS**
+tag ```<style>``` ada di dalam tag ```<head>``` dan masih berada di file HTML
+
+![image](https://user-images.githubusercontent.com/90013398/192442992-a8d836ad-9643-4a0d-a58c-79543fd0a01c.png)
+
+> **External CSS**
+ 
 ## Algortima
 
 ## Javascript
