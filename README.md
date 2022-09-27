@@ -78,12 +78,21 @@ element *style* dimasukkan di dalam tag HTML seperti di bawah ini
 
 ![image](https://user-images.githubusercontent.com/90013398/192441323-fd46823f-5509-4559-8e32-f2a545c86ac1.png)
 
+![image](https://user-images.githubusercontent.com/90013398/192443782-1ddd0364-7273-4d8f-acd8-d3d2490cc28d.png)
+
+
 > **Internal CSS**
 tag ```<style>``` ada di dalam tag ```<head>``` dan masih berada di file HTML
 
 ![image](https://user-images.githubusercontent.com/90013398/192442992-a8d836ad-9643-4a0d-a58c-79543fd0a01c.png)
 
 > **External CSS**
+membuat file baru dengan nama ```style.css``` dan mengaksesnya di tag ```<head>```
+
+![image](https://user-images.githubusercontent.com/90013398/192443638-0ac480ba-3563-445c-8f2f-1b4bc79de1c2.png)
+
+![image](https://user-images.githubusercontent.com/90013398/192443664-84b0282c-a893-47b0-a563-94e8a4aa8dd7.png)
+
  
 ## Algortima
 
