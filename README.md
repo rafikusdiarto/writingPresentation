@@ -93,6 +93,14 @@ membuat file baru dengan nama ```style.css``` dan mengaksesnya di tag ```<head>`
 
 ![image](https://user-images.githubusercontent.com/90013398/192443664-84b0282c-a893-47b0-a563-94e8a4aa8dd7.png)
 
+![image](https://user-images.githubusercontent.com/90013398/192444014-21112ad1-6e84-4012-a82d-937980c7900b.png)
+
+> **Selector CSS**
+selector pada CSS adalah syntax yang digunakan untuk memilih elemen yang ingin diberi style
+ untuk semua element ```*```
+ untuk class menggunakan ```.class```
+ untuk id menggunakan ```#id```
+ untuk element , *contoh* ```p```
  
 ## Algortima
 
