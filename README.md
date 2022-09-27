@@ -70,8 +70,9 @@ HTML adalah singkatan dari Hyper Text Markup Language yang digunakan untuk pembu
 ![image](https://user-images.githubusercontent.com/90013398/192438804-b571c280-53f1-4566-87a8-035d2556f6b9.png)
 
 
-
 ## CSS
+
+## Algortima
 
 ## Javascript
 
