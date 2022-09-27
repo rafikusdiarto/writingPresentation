@@ -35,11 +35,21 @@ git push origin main
 ## HTML
 HTML adalah singkatan dari Hyper Text Markup Language yang digunakan untuk pembuatan kerangka sebuah website dan menampilkan konten-konten yang ada di dalam website.
 - Kerangka HTML
+
 ![image](https://user-images.githubusercontent.com/90013398/192435724-20aeac2d-195e-4251-9fbe-4e1b694570af.png)
 > kerangka di atas adalah kerangka awal yang akan muncul otomatis di vscode ketika kita mengetikkan *!* lalu *enter* dan merupakan kerangka dasar sebuah website. Ada beberapa tag yang juga akan muncul otomatis dan ketika dibuka di website akan seperti ini 
+
 ![image](https://user-images.githubusercontent.com/90013398/192436155-6c85a248-2656-40a9-a883-01c404e53c74.png)
 - Contoh Tag HTML
-> 
+> tag untuk menampilan judul website
+![image](https://user-images.githubusercontent.com/90013398/192436610-5aafc835-2143-46bd-9acd-d953fa5f2ca2.png)
+
+> tag yang digunakan sebagai wadah untuk elemen HTML
+![image](https://user-images.githubusercontent.com/90013398/192436757-cd92c62d-5734-4e34-9925-0a8215ad068c.png)
+
+> tag yang digunakan untuk mendefinisikan heading HTML
+![image](https://user-images.githubusercontent.com/90013398/192436965-57f8de40-33f8-4715-89cb-a0b1faa15ad4.png)
+
 ## CSS
 
 ## Javascript
