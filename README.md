@@ -22,7 +22,7 @@ git commit -m "progress1.0"
 ```
 > membuat terhubung ke remote repository
 ```
-git remote add origin https://github.com/rafikusdiarto/cobaWeb.git
+git remote add cobaWeb https://github.com/rafikusdiarto/cobaWeb.git
 ```
 > melakukan push perubahan ke branch main
 ```
