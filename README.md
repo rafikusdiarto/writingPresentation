@@ -134,7 +134,25 @@ selector pada CSS adalah syntax yang digunakan untuk memilih elemen yang ingin d
 
  
 ## Algortima
+- Algortima dan Struktur Data
+> Struktur data adalah cara penyimpanan , pengorganisasian , dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. Algoritma adalah sederetan langkah-langkah logis yang disusun secara sistematis untuk memecahkan suatu masalah.
 
+- Manfaat Algortima dan Struktur Data
+> Dengan memahami algoritma pada suatu program maka program akan mudah dijalankan. Struktur data bisa berpengaruh ke tingkat efektifitas algoritma. Dengan menggunakan struktur data, masalah ketika sedang melakukan coding bisa lebih cepat diselesaikan.
+ 
+- Penggunaan Algoritma
+> penggunaan algortima pada penghitungan luas segitiga
+  - Input : a (alas) dan t (tinggi)
+  - Luas Segitiga = a*t/2
+> Algoritma :
+  - Start
+  - Masukan nilai alas (a) dan nilai tinggi segitiga (t)
+  - Maka untuk menghitung luas digunakan rumus alas dengan tinggi yang sudah ditentukan
+  - Rumus untuk menghitung Luas Segitiga yaitu L = 1/2*a*t
+  - Nilai L (Luas) akan dicetak sebagai output ke perangkat output (keluaran)
+  - Stop
+
+ 
 ## Javascript
 
 
