@@ -233,7 +233,7 @@ Nilai dari parameter fungsi yang tidak memiliki argumen
 Tipe data object mempunyai key dan value.
 
 - Operator pada Javascript
->Operator adalah simbol yang digunakan untuk melakukan operasi pada suatu nilai dan variabel.
+Operator adalah simbol yang digunakan untuk melakukan operasi pada suatu nilai dan variabel.
  
 > Operator aritmatika 
  
@@ -245,11 +245,38 @@ Tipe data object mempunyai key dan value.
  
 > Operator Assignment : digunakan untuk menyimpan sebuah nilai pada variabel.
 
-![Uploading image.png…]()
-
-> Opertor Penggabungan Teks
-apabila kita akan melakukan operasi terhadap tipe data string atau teks menggunakan penjumlahan (+)
+![image](https://user-images.githubusercontent.com/90013398/192720257-64702560-bed5-4fcf-94f0-973a230fe4f3.png)
 
 
-                  
+> Operator Penggabungan Teks
+apabila kita akan melakukan operasi terhadap tipe data string atau teks menggunakan penjumlahan (+), maka yang akan terjadi adalah penggabungan; Bukan penjumlahan.
+ 
+![image](https://user-images.githubusercontent.com/90013398/192720900-908fe3b3-883a-41ec-a24c-723a1a7dc211.png)
+
+![image](https://user-images.githubusercontent.com/90013398/192720998-2ccc87ca-4f75-4937-abfb-f62c3ecd7a6d.png)
+
+> Comparison Operator : 
+Comparison operator adalah operator yang membandingkan satu nilai dengan nilai lainnya.
+Hasil operasi yang melibatkan comparison operator adalah antara true or false
+
+> Simbol comparison operator
+
+> Lebih kecil dari : <
+> Lebih besar dari: >
+> Lebih kecil atau sama dengan: <=
+> Lebih besar atau sama dengan: >=
+> Sama dengan: ===
+> Tidak sama dengan: !==
+
+![image](https://user-images.githubusercontent.com/90013398/192721656-11143b3b-dcb2-4a42-b312-11f653d375c9.png)
+
+> Logical Operator
+ 
+> Logical operator biasa digunakan untuk sebuah CONDITIONAL pada pemograman.
+Menghasilkan nilai BOOLEAN yaitu TRUE or FALSE.
+Simbol dari Logical Operator adalah sebagai berikut:
+> AND operator : &&
+> OR operator: ||
+> NOT operator: !
+
 
