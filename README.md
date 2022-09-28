@@ -276,7 +276,24 @@ Hasil operasi yang melibatkan comparison operator adalah antara true or false
 Menghasilkan nilai BOOLEAN yaitu TRUE or FALSE.
 Simbol dari Logical Operator adalah sebagai berikut:
 > AND operator : &&
+
+![image](https://user-images.githubusercontent.com/90013398/192724647-d05a89f7-46c3-495d-a1a1-ed42b2eb5aaa.png)
+
+
 > OR operator: ||
+
+![image](https://user-images.githubusercontent.com/90013398/192726385-560d6414-89ea-4a59-b13b-a7e0a9ea2dfa.png)
+
 > NOT operator: !
 
+![image](https://user-images.githubusercontent.com/90013398/192726621-27ae125c-a86b-4f14-92e0-7cee53ec6733.png)
+
+- Conditional dan Looping 
+> Conditional : Conditional merupakan statement percabangan yang menggambarkan suatu kondisi.
+ 
+![image](https://user-images.githubusercontent.com/90013398/192727798-baa8d855-32bc-43f5-bc69-fcb53464b6ca.png)
+
+> Looping : Looping adalah statement yang mengulang sebuah instruksi hingga kondisi terpenuhi atau jika kondisi stop/berhenti tercapai.
+ 
+![image](https://user-images.githubusercontent.com/90013398/192728399-964c4eb0-aeea-440a-8293-7fdb81bfb629.png)
 
