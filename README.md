@@ -211,12 +211,17 @@ Javascript bisa digunakan untuk membuat fitur beragam seperti drag, drop kompone
 
 - Tipe Data Javascript
 > number : tipe data yang mengandung angka
+ 
 > string : Tipe data string adalah yang mengandung letters (huruf), number (angka), spaces (spasi), symbol, dan lainnya.
 Harus diawali dan diakhiri dengan single quotes ‘ … ‘ ataupun double quotes “ … “.
+
 > boolean : ada 2 nilai untuk boolean yaitu TRUE (benar) or FALSE (salah).
+ 
 > null : Tipe data null adalah tipe data yang diartikan bahwa sebuah variable/data tidak memiliki nilai.
-Null berbeda dengan string kosong. String kosong masih memiliki tipe data string.
+Null berbeda dengan string kosong. String kosong masih memiliki tipe data string.\
+
 > undefined : tipe data yang merepresentasikan varibel/data yang tidak memiliki nilai.
+
 > Undefined didapat dari hasil berikut:
 Nilai dari pemanggilan variabel yang belum didefinisikan
 Nilai dari pemanggilan element array yang tidak ada
