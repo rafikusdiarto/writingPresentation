@@ -31,6 +31,10 @@ git push origin main
 > lalu akan tampil seperti di bawah ini
 ![image](https://user-images.githubusercontent.com/90013398/192434436-eb282cf9-acca-471d-9710-bddcf3b4c263.png)
 
+> melakukan clone, nanti repository yang sudah diclone akan masuk sesuai direktori pada git bash
+![image](https://user-images.githubusercontent.com/90013398/192685395-891c431a-bfc1-46dc-bf6f-b9bd467ef44d.png)
+
+
 
 ## HTML
 HTML adalah singkatan dari Hyper Text Markup Language yang digunakan untuk pembuatan kerangka sebuah website dan menampilkan konten-konten yang ada di dalam website.
