@@ -166,7 +166,39 @@ selector pada CSS adalah syntax yang digunakan untuk memilih elemen yang ingin d
   - Nilai L (Luas) akan dicetak sebagai output ke perangkat output (keluaran)
   - Stop
 
+- Pseudocode
+Pseudocode adalah menuliskan algoritma dengan umumnya bahasa inggris sebelum kita implementasikan ke bahasa pemograman tertentu. 
+> Cara penulisan
+   - Menggunakan HURUF BESAR pada kata kunci (key commands). 
+   - CONTOH: IF number is > 10 THEN …
+   - 1 statement =  1 baris 
+   - Gunakan indentasi
  
+> contohnya 
+```STORE "width" with any number
+STORE "height" with any nummber
+STORE "area" without any value
+
+CALCULATE "width" times "height"
+SET "area" value with calculation result
+DISPLAY "area"```
+ 
+> contoh pada javascript conditional dan looping
+conditional adalah syntax yang digunakan ketika ada percabangan, dan akan dilaksanakan ketika kondisi terpenuhi, dan looping adalah melakukan sesuatu memproses data, menampilkan data, atau yang lainnya secara berulang
+```
+STORE "hitung" t0 1
+
+WHILE "hitung" < 20
+DISPLAY "hitung"
+CALCULATE "hitung" mod 2
+STORE "reminder" value with calculation result
+IF "reminder" equals to 0
+DISPLAY "GENAP!"
+ELSE
+DISPLAY "GANJIL!"
+```
+
+
 ## Javascript
 
 
