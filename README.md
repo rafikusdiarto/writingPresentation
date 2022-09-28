@@ -73,6 +73,18 @@ HTML adalah singkatan dari Hyper Text Markup Language yang digunakan untuk pembu
 
 ![image](https://user-images.githubusercontent.com/90013398/192438804-b571c280-53f1-4566-87a8-035d2556f6b9.png)
 
+> untuk deploy saya menggunakan vercel dan saya connect kan ke repository github saya
+
+![image](https://user-images.githubusercontent.com/90013398/192685806-50563328-f881-4599-90d8-ee1655513f8a.png)
+
+![image](https://user-images.githubusercontent.com/90013398/192685832-7ac2cbf0-1ed7-4c1f-b9b7-8901b390e5a3.png)
+
+![image](https://user-images.githubusercontent.com/90013398/192685701-8f32dd5e-643a-4a27-8611-e71582d3ac7d.png)
+
+> hasilnya url akan bisa diakses publik dan bisa diubah sesuai yang kita inginkan
+
+![image](https://user-images.githubusercontent.com/90013398/192685958-26b99268-13c4-4e6b-a507-1a230862c39e.png)
+
 
 ## CSS
 Cascading Style Sheet merupakan bahas komputer untuk mengatur beberapa komponen dalam sebuah web. seperti contoh untuk mengubah font, warna, ukuran, spasi konten, pembagian kolom, atau menambahkan animasi dan fitur lainnya.
