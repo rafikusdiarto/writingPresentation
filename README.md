@@ -232,6 +232,24 @@ Nilai dari parameter fungsi yang tidak memiliki argumen
 > object : Tipe data object adalah koleksi data yang saling berhubungan (related). Tipe data pbject dapat menyimpan data dengan tipe data apapun (number, string, boolean, dan lainnya).
 Tipe data object mempunyai key dan value.
 
+- Operator pada Javascript
+>Operator adalah simbol yang digunakan untuk melakukan operasi pada suatu nilai dan variabel.
+ 
+> Operator aritmatika 
+ 
+![image](https://user-images.githubusercontent.com/90013398/192718141-0e5cc0ff-abb6-46ab-a0e9-7485adfad21d.png)
 
-                   
+![image](https://user-images.githubusercontent.com/90013398/192718356-0818462b-77a3-4844-83c9-e33d72c46db5.png)
+
+![image](https://user-images.githubusercontent.com/90013398/192718451-8b5005dd-8c59-469a-9489-bbd309cd5c6e.png)
+ 
+> Operator Assignment : digunakan untuk menyimpan sebuah nilai pada variabel.
+
+![Uploading image.png…]()
+
+> Opertor Penggabungan Teks
+apabila kita akan melakukan operasi terhadap tipe data string atau teks menggunakan penjumlahan (+)
+
+
+                  
 
