@@ -1,6 +1,28 @@
 # Writing Presentation Week 1
 
 ## Unix Command Line
+- Shell
+Shell adalah user interface yang bertugas untuk memproses semua perintah yang diketik di CLI. Shell membaca dan mengartikan perintah, lalu menginstruksikan sistem operasi untuk menjalankan task sesuai permintaan. 
+
+- CLI
+CLI sebagai program, pengguna bisa memberikan perintah dalam bentuk teks, kemudian memberikan instruksi dan melakukan tugas tertentu. bisa diakses pada *cmd* atau *git bash*
+
+- File System Structure
+Struktur dimana mengatur cara bagaimana data disimpan dalam sistem.
+
+![image](https://user-images.githubusercontent.com/90013398/192731047-3463da51-ab6c-42a0-b87b-5710931352fa.png)
+
+- Command 
+```
+pwd (print working directory), untuk melihat current working directory
+dir (directory), untuk melihat directory
+cd (change directory), untuk pindah directory
+ls (list), untuk melihat isi file di dalam directory
+touch, untuk membuat file directory
+cp (copy), untuk menyalin file directory
+mv (move), untuk memindahkan file directory
+rm (remove), untuk menghapus file directory
+```
 
 ## Git dan GitHub
 - Git
