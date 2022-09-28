@@ -124,6 +124,20 @@ selector pada CSS adalah syntax yang digunakan untuk memilih elemen yang ingin d
 ```h1``` : selector untuk elemen yang akan diubah stylenya yaitu h1
 ```color``` : property color untuk merubah warna h1
 ```blue``` : value untuk mendefinisikan warna yang diinginkan
+ 
+> responsive web design adalah bentuk tampilan keseluruhan pada device yang berbeda bisa dengan mengubah satuan PX menjadi %, maka nilai width element div dapat menyesuaikan berdasarkan viewport yang tersedia
+> untuk tampilan desktop
+``` 
+ @media screen and (min-width: 1024px) {
+
+ }
+```
+ > untuk tampilan mobile
+```
+@media screen and (max-device-width: 480px)
+
+} 
+```
 > penggunaan flexbox yaitu untuk mengatur layout dari beberapa konten pada HTML
 
 ![image](https://user-images.githubusercontent.com/90013398/192692039-8b8ebf56-1d20-4aa4-b78a-c20da6773bd1.png)
