@@ -175,19 +175,21 @@ Pseudocode adalah menuliskan algoritma dengan umumnya bahasa inggris sebelum kit
    - Gunakan indentasi
  
 > contohnya 
-```STORE "width" with any number
+ 
+```
+STORE "width" with any number
 STORE "height" with any nummber
 STORE "area" without any value
 
 CALCULATE "width" times "height"
 SET "area" value with calculation result
-DISPLAY "area"```
+DISPLAY "area"
+```
  
 > contoh pada javascript conditional dan looping
 conditional adalah syntax yang digunakan ketika ada percabangan, dan akan dilaksanakan ketika kondisi terpenuhi, dan looping adalah melakukan sesuatu memproses data, menampilkan data, atau yang lainnya secara berulang
 ```
 STORE "hitung" t0 1
-
 WHILE "hitung" < 20
 DISPLAY "hitung"
 CALCULATE "hitung" mod 2
