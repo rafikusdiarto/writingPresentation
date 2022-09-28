@@ -202,5 +202,31 @@ DISPLAY "GANJIL!"
 
 
 ## Javascript
+Javascript bisa digunakan untuk membuat fitur beragam seperti drag, drop komponen yang semuanya bisa bermanfaat untuk meningkatkan tampilan (interface) dan pengalaman menggunakan web. Javascript juga dapat membuat website menjadi interaktif dan dinamis
 
+- Penggunaan Javascript pada Website
+> dengan cara mengakses file js di tag ```<script>```
+ 
+![image](https://user-images.githubusercontent.com/90013398/192714908-d01d61aa-48f1-4842-8648-3e9442c71850.png)
+
+- Tipe Data Javascript
+> number : tipe data yang mengandung angka
+> string : Tipe data string adalah yang mengandung letters (huruf), number (angka), spaces (spasi), symbol, dan lainnya.
+Harus diawali dan diakhiri dengan single quotes ‘ … ‘ ataupun double quotes “ … “.
+> boolean : ada 2 nilai untuk boolean yaitu TRUE (benar) or FALSE (salah).
+> null : Tipe data null adalah tipe data yang diartikan bahwa sebuah variable/data tidak memiliki nilai.
+Null berbeda dengan string kosong. String kosong masih memiliki tipe data string.
+> undefined : tipe data yang merepresentasikan varibel/data yang tidak memiliki nilai.
+> Undefined didapat dari hasil berikut:
+Nilai dari pemanggilan variabel yang belum didefinisikan
+Nilai dari pemanggilan element array yang tidak ada
+Nilai dari pemanggilan property objek yang tidak ada
+Nilai dari pemanggilan fungsi yang tidak mengembalikan nilai (return)
+Nilai dari parameter fungsi yang tidak memiliki argumen
+
+> object : Tipe data object adalah koleksi data yang saling berhubungan (related). Tipe data pbject dapat menyimpan data dengan tipe data apapun (number, string, boolean, dan lainnya).
+Tipe data object mempunyai key dan value.
+
+
+                   
 
