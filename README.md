@@ -124,6 +124,14 @@ selector pada CSS adalah syntax yang digunakan untuk memilih elemen yang ingin d
 ```h1``` : selector untuk elemen yang akan diubah stylenya yaitu h1
 ```color``` : property color untuk merubah warna h1
 ```blue``` : value untuk mendefinisikan warna yang diinginkan
+> penggunaan flexbox yaitu untuk mengatur layout dari beberapa konten pada HTML
+
+![image](https://user-images.githubusercontent.com/90013398/192692039-8b8ebf56-1d20-4aa4-b78a-c20da6773bd1.png)
+
+ hasilnya seperti di bawah ini
+ 
+ ![image](https://user-images.githubusercontent.com/90013398/192691883-602f5d65-1b03-4bc3-b29f-a74319fe12a0.png)
+
  
 ## Algortima
 
