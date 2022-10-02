@@ -13,13 +13,13 @@ Pada scope kita juga dapat mengenal blocks diaman 'blocks` merupakan code yang a
    `Global scope` berarti variabel yang kita buat dapat diakses dimanapun dalam suatu file. Agar menjadi Global Scope, suatu variabel harus dideklarasikan diluar Blocks.
 
    ```
-    let nama = 'Putri'; 
+    let nama = 'Rafi'; 
 
     function greeting() {
         return nama;
     }
 
-    console.log(nama) //Output : Putri
+    console.log(nama) //Output : Rafi
    ```
 
 2. Local Scope
@@ -27,11 +27,11 @@ Pada scope kita juga dapat mengenal blocks diaman 'blocks` merupakan code yang a
     `Local scope` berarti kita mendeklarasikan variabel didalam blocks seperti function, conditional, dan looping. Maka variabel hanya bisa diakses didalam blocks saja. Tidak bisa diakses diluar blocks.
     ```
     function greeting() {
-    let nama = 'Putri';
+    let nama = 'Rafi';
     return nama;
     }
 
-    console.log(greeting()) //Output : Putri
+    console.log(greeting()) //Output : Rafi
     console.log(nama) //Output : null (karena yang dipanggil variabel yang ada didalam fungsi)
     ```
 
@@ -62,10 +62,10 @@ Contoh penggunaan fungsi :
 ```
 // fungsi tanpa menggunakan parameter dan argumen
 function greeting() {
-  let nama = 'Putri';
+  let nama = 'Rafi';
   return nama;
 }
-console.log(greeting()) //Output : Putri
+console.log(greeting()) //Output : Rafi
 
 // fungsi menggunakan parameter dan argumen
 function luas_persegi(s) {
@@ -211,4 +211,4 @@ Saat menulis halaman web dan aplikasi, salah satu hal paling umum yang ingin And
     </script>
     ```
 
-**Copyright by Putri Dresty F @2022**
+**Copyright by Muhammad Rafi Kusdiarto @2022**
