@@ -1,4 +1,4 @@
-# Writing Week 6, 24 - 28 Oktober 2022)
+# Writing Week 6, 31 - 4 Oktober 2022)
 
 ## Backend Development
 ---
